@@ -11,9 +11,7 @@
 *.Rda
 *.csv
 *.html
-ppp/AreaProbability.html
 *.RDS
 *.Rds
 *.rds
-ppp/data/*
-ppp/data.zip
+data/*
