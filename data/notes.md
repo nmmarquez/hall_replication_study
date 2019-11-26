@@ -11,7 +11,7 @@ Variables of interest are gathered from 2000 census as well as 2005-2009 acs and
 
 ### New Dest Variables  
 
-For these we need data from 1980, 1990, 2000, 2009 5acs, 2017 5acs Mexican Immigrant population and total population information at the metropolitan level. Need to make sure the geographies are sonsitent  
+For these we need data from 1980, 1990, 2000, 2009 5acs, 2017 5acs Mexican Immigrant population and total population information at the metropolitan level. Need to make sure the geographies are consitent. 
 
 
 ## Percent undocumnted  
