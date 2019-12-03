@@ -16,3 +16,5 @@
 *.rds
 data/*
 .Rproj.user
+keys/*
+inter_data/*
